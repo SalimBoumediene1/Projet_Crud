@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Projet_Crud</string>
+    <string name="title_main">Accueil</string>
+    <string name="txt_voir_all">Voir les Utilisateurs</string>
+    <string name="txt_tilte_create">Création de Compte</string>
+    <string name="txt_title_list">List des comptes</string>
+    <string name="txt_delete">Delete</string>
+    <string name="txt_update">Update</string>
+    <string name="title_activity_login">LogIn</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+    <string name="nullValue">n/a</string>
+    <string name="nullPrice">n/a</string>
+</resources>
